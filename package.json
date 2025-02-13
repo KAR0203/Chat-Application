@@ -1,6 +1,8 @@
-"dependencies": {
+{
+  "dependencies": {
   "react": "^18.0.0",
   "react-dom": "^18.0.0",
   "react-router-dom": "^6.23.1",
-  "react-scripts": "5.0.0"  // Or the version you're using
+  "react-scripts": "5.0.0"  
+}
 }
