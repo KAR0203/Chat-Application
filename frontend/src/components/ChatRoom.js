@@ -110,7 +110,7 @@ const ChatRoom = () => {
           className="message-input"
         />
         <button type="button" className="mic-button" onClick={startListening}>
-          🎤
+          Speak
         </button>
         <button type="submit" className="send-btn">Send</button>
       </form>
